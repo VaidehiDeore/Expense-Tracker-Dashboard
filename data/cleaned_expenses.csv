@@ -1,0 +1,826 @@
+Date,Category,Description,Amount,Type,Payment_Method
+2025-01-01,Salary,Monthly Salary,40795,Income,Bank Transfer
+2025-01-01,Education,Stationery,3592,Expense,Card
+2025-01-01,Food,Snacks,187,Expense,Cash
+2025-01-01,Food,Dinner,443,Expense,Bank Transfer
+2025-01-02,Travel,Cab,145,Expense,Card
+2025-01-03,Travel,Fuel,224,Expense,Card
+2025-01-03,Miscellaneous,Unexpected Expense,1628,Expense,Card
+2025-01-03,Food,Dinner,1033,Expense,Cash
+2025-01-04,Food,Food Delivery,279,Expense,Bank Transfer
+2025-01-05,Travel,Train,103,Expense,Card
+2025-01-05,Investment,Savings Deposit,6675,Expense,Bank Transfer
+2025-01-05,Freelance,Part-time Work,5152,Income,Bank Transfer
+2025-01-05,Rent,Monthly House Rent,11943,Expense,Bank Transfer
+2025-01-06,Food,Food Delivery,314,Expense,Bank Transfer
+2025-01-06,Education,Course Fee,1378,Expense,Upi
+2025-01-06,Travel,Train,90,Expense,Upi
+2025-01-07,Freelance,Freelance Payment,4568,Income,Bank Transfer
+2025-01-07,Bills,Mobile Recharge,1147,Expense,Upi
+2025-01-07,Food,Lunch,491,Expense,Card
+2025-01-07,Food,Cafe,330,Expense,Card
+2025-01-07,Miscellaneous,Unexpected Expense,879,Expense,Card
+2025-01-08,Health,Health Checkup,2095,Expense,Upi
+2025-01-09,Travel,Bus,228,Expense,Bank Transfer
+2025-01-09,Health,Health Checkup,1228,Expense,Cash
+2025-01-09,Shopping,Accessories,692,Expense,Cash
+2025-01-10,Food,Snacks,259,Expense,Cash
+2025-01-10,Food,Snacks,330,Expense,Upi
+2025-01-11,Investment,Savings Deposit,3693,Expense,Cash
+2025-01-11,Shopping,Accessories,2328,Expense,Upi
+2025-01-12,Travel,Cab,165,Expense,Card
+2025-01-12,Food,Snacks,739,Expense,Cash
+2025-01-12,Travel,Bus,364,Expense,Bank Transfer
+2025-01-13,Food,Dinner,367,Expense,Card
+2025-01-14,Miscellaneous,Repair,798,Expense,Bank Transfer
+2025-01-15,Freelance,Freelance Payment,10164,Income,Bank Transfer
+2025-01-15,Bills,Water Bill,884,Expense,Bank Transfer
+2025-01-15,Shopping,Online Shopping,1995,Expense,Bank Transfer
+2025-01-15,Food,Food Delivery,283,Expense,Bank Transfer
+2025-01-16,Food,Cafe,448,Expense,Card
+2025-01-16,Shopping,Grocery Shopping,2491,Expense,Card
+2025-01-17,Shopping,Online Shopping,446,Expense,Bank Transfer
+2025-01-17,Miscellaneous,Gift,1763,Expense,Card
+2025-01-18,Food,Cafe,887,Expense,Bank Transfer
+2025-01-19,Shopping,Grocery Shopping,1587,Expense,Upi
+2025-01-20,Food,Snacks,332,Expense,Bank Transfer
+2025-01-20,Miscellaneous,Unexpected Expense,1243,Expense,Upi
+2025-01-20,Food,Snacks,521,Expense,Bank Transfer
+2025-01-21,Miscellaneous,Repair,1013,Expense,Cash
+2025-01-21,Health,Medicine,3991,Expense,Bank Transfer
+2025-01-21,Food,Snacks,376,Expense,Upi
+2025-01-22,Entertainment,Movie,1028,Expense,Bank Transfer
+2025-01-22,Miscellaneous,Gift,1406,Expense,Cash
+2025-01-22,Travel,Train,71,Expense,Card
+2025-01-23,Bills,Mobile Recharge,1158,Expense,Upi
+2025-01-23,Food,Food Delivery,271,Expense,Cash
+2025-01-24,Education,Books,1560,Expense,Cash
+2025-01-24,Miscellaneous,Unexpected Expense,1222,Expense,Upi
+2025-01-24,Travel,Auto,210,Expense,Upi
+2025-01-25,Health,Doctor Visit,2095,Expense,Bank Transfer
+2025-01-25,Health,Health Checkup,1886,Expense,Cash
+2025-01-26,Investment,Mutual Fund,8560,Expense,Upi
+2025-01-27,Investment,Mutual Fund,9716,Expense,Upi
+2025-01-27,Entertainment,Weekend Outing,169,Expense,Cash
+2025-01-28,Food,Snacks,279,Expense,Bank Transfer
+2025-01-28,Food,Dinner,289,Expense,Cash
+2025-01-28,Travel,Cab,141,Expense,Upi
+2025-01-29,Food,Cafe,207,Expense,Cash
+2025-01-30,Freelance,Part-time Work,9027,Income,Bank Transfer
+2025-01-30,Health,Medicine,3183,Expense,Cash
+2025-01-30,Shopping,Grocery Shopping,1993,Expense,Card
+2025-01-30,Travel,Train,107,Expense,Cash
+2025-01-31,Travel,Bus,178,Expense,Card
+2025-01-31,Food,Lunch,225,Expense,Bank Transfer
+2025-01-31,Miscellaneous,Unexpected Expense,996,Expense,Bank Transfer
+2025-02-01,Salary,Monthly Salary,34662,Income,Bank Transfer
+2025-02-01,Travel,Cab,125,Expense,Upi
+2025-02-02,Food,Cafe,211,Expense,Upi
+2025-02-03,Travel,Fuel,59,Expense,Cash
+2025-02-03,Education,Course Fee,2135,Expense,Upi
+2025-02-04,Entertainment,Weekend Outing,591,Expense,Upi
+2025-02-04,Health,Health Checkup,3287,Expense,Cash
+2025-02-05,Freelance,Project Payment,11087,Income,Bank Transfer
+2025-02-05,Rent,Monthly House Rent,8851,Expense,Bank Transfer
+2025-02-05,Entertainment,Movie,1106,Expense,Bank Transfer
+2025-02-05,Travel,Fuel,217,Expense,Upi
+2025-02-06,Freelance,Part-time Work,7726,Income,Bank Transfer
+2025-02-06,Food,Lunch,341,Expense,Cash
+2025-02-06,Travel,Cab,139,Expense,Upi
+2025-02-07,Bills,Electricity Bill,1325,Expense,Bank Transfer
+2025-02-07,Miscellaneous,Gift,1499,Expense,Upi
+2025-02-08,Food,Food Delivery,992,Expense,Bank Transfer
+2025-02-08,Travel,Cab,241,Expense,Bank Transfer
+2025-02-09,Education,Books,3414,Expense,Upi
+2025-02-10,Travel,Fuel,236,Expense,Bank Transfer
+2025-02-11,Food,Cafe,554,Expense,Card
+2025-02-11,Shopping,Online Shopping,443,Expense,Bank Transfer
+2025-02-11,Travel,Bus,102,Expense,Card
+2025-02-12,Miscellaneous,Gift,497,Expense,Card
+2025-02-12,Miscellaneous,Unexpected Expense,334,Expense,Bank Transfer
+2025-02-13,Entertainment,Gaming,1426,Expense,Upi
+2025-02-13,Food,Dinner,492,Expense,Cash
+2025-02-14,Food,Lunch,235,Expense,Cash
+2025-02-15,Education,Stationery,3641,Expense,Upi
+2025-02-15,Bills,Water Bill,1010,Expense,Upi
+2025-02-16,Travel,Cab,395,Expense,Upi
+2025-02-16,Food,Food Delivery,492,Expense,Card
+2025-02-16,Entertainment,Movie,1888,Expense,Card
+2025-02-17,Miscellaneous,Repair,1033,Expense,Bank Transfer
+2025-02-18,Food,Food Delivery,248,Expense,Card
+2025-02-19,Health,Medicine,3712,Expense,Upi
+2025-02-19,Health,Doctor Visit,3686,Expense,Cash
+2025-02-19,Travel,Fuel,61,Expense,Bank Transfer
+2025-02-20,Food,Cafe,189,Expense,Cash
+2025-02-20,Food,Snacks,456,Expense,Cash
+2025-02-21,Investment,SIP,3779,Expense,Cash
+2025-02-21,Freelance,Freelance Payment,7320,Income,Bank Transfer
+2025-02-22,Freelance,Part-time Work,14677,Income,Bank Transfer
+2025-02-22,Health,Doctor Visit,2038,Expense,Bank Transfer
+2025-02-22,Miscellaneous,Unexpected Expense,1374,Expense,Bank Transfer
+2025-02-22,Travel,Bus,114,Expense,Card
+2025-02-23,Bills,Electricity Bill,562,Expense,Bank Transfer
+2025-02-23,Investment,Mutual Fund,5000,Expense,Card
+2025-02-23,Food,Food Delivery,740,Expense,Card
+2025-02-23,Education,Books,1960,Expense,Upi
+2025-02-24,Food,Lunch,359,Expense,Bank Transfer
+2025-02-24,Food,Lunch,177,Expense,Card
+2025-02-24,Entertainment,Gaming,244,Expense,Cash
+2025-02-25,Miscellaneous,Unexpected Expense,1948,Expense,Card
+2025-02-25,Investment,SIP,5363,Expense,Cash
+2025-02-26,Entertainment,Subscription,727,Expense,Cash
+2025-02-27,Travel,Cab,147,Expense,Card
+2025-02-27,Miscellaneous,Gift,1431,Expense,Bank Transfer
+2025-02-28,Entertainment,Weekend Outing,230,Expense,Cash
+2025-02-28,Miscellaneous,Gift,1453,Expense,Cash
+2025-03-01,Salary,Monthly Salary,32941,Income,Bank Transfer
+2025-03-01,Food,Lunch,190,Expense,Card
+2025-03-02,Travel,Fuel,57,Expense,Bank Transfer
+2025-03-02,Travel,Auto,244,Expense,Upi
+2025-03-02,Food,Dinner,849,Expense,Upi
+2025-03-03,Shopping,Clothes,2693,Expense,Cash
+2025-03-03,Freelance,Freelance Payment,8981,Income,Bank Transfer
+2025-03-04,Food,Snacks,348,Expense,Card
+2025-03-04,Travel,Bus,386,Expense,Bank Transfer
+2025-03-04,Education,Stationery,1776,Expense,Card
+2025-03-05,Rent,Monthly House Rent,8525,Expense,Bank Transfer
+2025-03-05,Education,Books,2625,Expense,Cash
+2025-03-05,Food,Snacks,411,Expense,Card
+2025-03-06,Shopping,Clothes,2206,Expense,Card
+2025-03-06,Travel,Bus,251,Expense,Card
+2025-03-06,Food,Lunch,225,Expense,Upi
+2025-03-07,Bills,Internet Bill,2103,Expense,Upi
+2025-03-07,Shopping,Accessories,2458,Expense,Cash
+2025-03-08,Entertainment,Weekend Outing,805,Expense,Cash
+2025-03-09,Travel,Bus,144,Expense,Card
+2025-03-09,Food,Snacks,227,Expense,Cash
+2025-03-09,Miscellaneous,Gift,1864,Expense,Cash
+2025-03-10,Freelance,Freelance Payment,4590,Income,Bank Transfer
+2025-03-10,Miscellaneous,Unexpected Expense,567,Expense,Cash
+2025-03-10,Miscellaneous,Unexpected Expense,1729,Expense,Cash
+2025-03-10,Miscellaneous,Repair,946,Expense,Card
+2025-03-11,Food,Cafe,217,Expense,Upi
+2025-03-12,Health,Medicine,853,Expense,Cash
+2025-03-12,Food,Snacks,455,Expense,Upi
+2025-03-12,Travel,Auto,59,Expense,Bank Transfer
+2025-03-13,Food,Lunch,418,Expense,Upi
+2025-03-13,Entertainment,Gaming,1268,Expense,Bank Transfer
+2025-03-14,Miscellaneous,Gift,1443,Expense,Bank Transfer
+2025-03-14,Miscellaneous,Unexpected Expense,1582,Expense,Card
+2025-03-15,Bills,Internet Bill,1752,Expense,Bank Transfer
+2025-03-15,Investment,Savings Deposit,3898,Expense,Cash
+2025-03-15,Travel,Auto,286,Expense,Bank Transfer
+2025-03-16,Miscellaneous,Unexpected Expense,1760,Expense,Card
+2025-03-16,Shopping,Accessories,4335,Expense,Upi
+2025-03-17,Shopping,Online Shopping,497,Expense,Card
+2025-03-17,Travel,Bus,64,Expense,Bank Transfer
+2025-03-17,Education,Course Fee,1422,Expense,Upi
+2025-03-18,Education,Course Fee,2836,Expense,Cash
+2025-03-19,Travel,Train,233,Expense,Upi
+2025-03-19,Food,Snacks,431,Expense,Card
+2025-03-19,Education,Stationery,3353,Expense,Bank Transfer
+2025-03-20,Food,Dinner,168,Expense,Bank Transfer
+2025-03-20,Entertainment,Gaming,861,Expense,Cash
+2025-03-21,Entertainment,Movie,1107,Expense,Card
+2025-03-21,Health,Medicine,2930,Expense,Bank Transfer
+2025-03-22,Freelance,Part-time Work,2126,Income,Bank Transfer
+2025-03-22,Entertainment,Movie,1449,Expense,Cash
+2025-03-23,Bills,Internet Bill,2292,Expense,Upi
+2025-03-23,Food,Snacks,661,Expense,Bank Transfer
+2025-03-24,Miscellaneous,Unexpected Expense,1333,Expense,Upi
+2025-03-24,Food,Lunch,236,Expense,Upi
+2025-03-24,Entertainment,Gaming,724,Expense,Card
+2025-03-25,Food,Lunch,841,Expense,Bank Transfer
+2025-03-25,Travel,Bus,228,Expense,Card
+2025-03-25,Food,Food Delivery,443,Expense,Card
+2025-03-26,Miscellaneous,Gift,1186,Expense,Card
+2025-03-26,Entertainment,Subscription,1314,Expense,Card
+2025-03-27,Food,Food Delivery,384,Expense,Cash
+2025-03-27,Investment,Savings Deposit,8186,Expense,Card
+2025-03-28,Shopping,Accessories,1436,Expense,Card
+2025-03-28,Food,Snacks,484,Expense,Bank Transfer
+2025-03-29,Travel,Cab,362,Expense,Card
+2025-03-29,Entertainment,Subscription,421,Expense,Upi
+2025-03-29,Food,Snacks,214,Expense,Upi
+2025-03-30,Investment,Savings Deposit,6207,Expense,Card
+2025-03-30,Miscellaneous,Gift,1623,Expense,Cash
+2025-03-31,Food,Cafe,502,Expense,Cash
+2025-03-31,Food,Food Delivery,362,Expense,Card
+2025-04-01,Salary,Monthly Salary,33705,Income,Bank Transfer
+2025-04-01,Travel,Cab,283,Expense,Card
+2025-04-02,Freelance,Freelance Payment,3555,Income,Bank Transfer
+2025-04-02,Travel,Train,271,Expense,Bank Transfer
+2025-04-03,Education,Stationery,3261,Expense,Cash
+2025-04-03,Shopping,Online Shopping,1035,Expense,Upi
+2025-04-04,Entertainment,Subscription,1374,Expense,Cash
+2025-04-04,Miscellaneous,Repair,541,Expense,Card
+2025-04-05,Rent,Monthly House Rent,14981,Expense,Bank Transfer
+2025-04-05,Shopping,Clothes,3693,Expense,Upi
+2025-04-05,Entertainment,Movie,2216,Expense,Card
+2025-04-06,Travel,Auto,171,Expense,Bank Transfer
+2025-04-06,Entertainment,Gaming,1266,Expense,Upi
+2025-04-07,Bills,Water Bill,2228,Expense,Upi
+2025-04-07,Food,Snacks,248,Expense,Bank Transfer
+2025-04-07,Miscellaneous,Unexpected Expense,286,Expense,Cash
+2025-04-07,Shopping,Accessories,2970,Expense,Upi
+2025-04-08,Food,Cafe,247,Expense,Card
+2025-04-08,Investment,Savings Deposit,8674,Expense,Upi
+2025-04-09,Travel,Bus,345,Expense,Upi
+2025-04-10,Travel,Train,340,Expense,Bank Transfer
+2025-04-10,Health,Medicine,8270,Expense,Bank Transfer
+2025-04-11,Food,Lunch,429,Expense,Card
+2025-04-12,Miscellaneous,Repair,1661,Expense,Bank Transfer
+2025-04-12,Education,Books,3208,Expense,Cash
+2025-04-12,Entertainment,Subscription,1853,Expense,Card
+2025-04-13,Shopping,Online Shopping,761,Expense,Upi
+2025-04-13,Food,Dinner,761,Expense,Card
+2025-04-13,Miscellaneous,Unexpected Expense,1034,Expense,Cash
+2025-04-14,Entertainment,Movie,1144,Expense,Cash
+2025-04-14,Miscellaneous,Unexpected Expense,1294,Expense,Card
+2025-04-15,Freelance,Freelance Payment,9694,Income,Bank Transfer
+2025-04-15,Bills,Electricity Bill,2039,Expense,Bank Transfer
+2025-04-15,Education,Exam Fee,4611,Expense,Cash
+2025-04-16,Food,Cafe,335,Expense,Card
+2025-04-16,Miscellaneous,Gift,2446,Expense,Upi
+2025-04-16,Miscellaneous,Repair,1216,Expense,Bank Transfer
+2025-04-17,Travel,Bus,389,Expense,Card
+2025-04-17,Shopping,Grocery Shopping,675,Expense,Cash
+2025-04-18,Food,Lunch,536,Expense,Card
+2025-04-19,Miscellaneous,Repair,160,Expense,Card
+2025-04-19,Miscellaneous,Repair,1425,Expense,Upi
+2025-04-19,Miscellaneous,Unexpected Expense,1834,Expense,Bank Transfer
+2025-04-20,Food,Dinner,515,Expense,Upi
+2025-04-20,Food,Food Delivery,603,Expense,Upi
+2025-04-20,Entertainment,Gaming,1515,Expense,Upi
+2025-04-21,Shopping,Grocery Shopping,1149,Expense,Card
+2025-04-21,Investment,Mutual Fund,5876,Expense,Upi
+2025-04-22,Food,Dinner,236,Expense,Bank Transfer
+2025-04-22,Miscellaneous,Unexpected Expense,1390,Expense,Card
+2025-04-23,Freelance,Freelance Payment,14327,Income,Bank Transfer
+2025-04-23,Bills,Water Bill,1784,Expense,Upi
+2025-04-23,Travel,Train,87,Expense,Bank Transfer
+2025-04-23,Shopping,Grocery Shopping,753,Expense,Upi
+2025-04-24,Miscellaneous,Repair,1163,Expense,Upi
+2025-04-25,Travel,Train,89,Expense,Upi
+2025-04-25,Miscellaneous,Gift,1270,Expense,Card
+2025-04-25,Miscellaneous,Gift,1804,Expense,Upi
+2025-04-26,Health,Health Checkup,899,Expense,Upi
+2025-04-26,Miscellaneous,Repair,1154,Expense,Bank Transfer
+2025-04-26,Travel,Auto,207,Expense,Bank Transfer
+2025-04-27,Shopping,Online Shopping,781,Expense,Upi
+2025-04-28,Travel,Cab,393,Expense,Cash
+2025-04-28,Food,Cafe,332,Expense,Bank Transfer
+2025-04-28,Food,Cafe,136,Expense,Bank Transfer
+2025-04-29,Miscellaneous,Repair,291,Expense,Upi
+2025-04-29,Entertainment,Weekend Outing,854,Expense,Card
+2025-04-30,Miscellaneous,Unexpected Expense,384,Expense,Card
+2025-04-30,Entertainment,Subscription,609,Expense,Upi
+2025-05-01,Salary,Monthly Salary,32813,Income,Bank Transfer
+2025-05-01,Food,Dinner,570,Expense,Upi
+2025-05-01,Miscellaneous,Unexpected Expense,1222,Expense,Card
+2025-05-01,Education,Exam Fee,2704,Expense,Cash
+2025-05-02,Travel,Train,70,Expense,Card
+2025-05-02,Food,Cafe,294,Expense,Bank Transfer
+2025-05-03,Food,Dinner,674,Expense,Upi
+2025-05-03,Food,Cafe,948,Expense,Bank Transfer
+2025-05-03,Shopping,Clothes,1813,Expense,Bank Transfer
+2025-05-04,Shopping,Clothes,4011,Expense,Bank Transfer
+2025-05-04,Miscellaneous,Unexpected Expense,998,Expense,Upi
+2025-05-05,Freelance,Part-time Work,13536,Income,Bank Transfer
+2025-05-05,Rent,Monthly House Rent,13355,Expense,Bank Transfer
+2025-05-05,Food,Food Delivery,543,Expense,Upi
+2025-05-06,Miscellaneous,Repair,1758,Expense,Cash
+2025-05-06,Miscellaneous,Gift,265,Expense,Upi
+2025-05-06,Miscellaneous,Unexpected Expense,201,Expense,Cash
+2025-05-07,Entertainment,Weekend Outing,741,Expense,Bank Transfer
+2025-05-07,Bills,Electricity Bill,2076,Expense,Bank Transfer
+2025-05-08,Travel,Bus,51,Expense,Upi
+2025-05-08,Food,Dinner,176,Expense,Cash
+2025-05-09,Health,Health Checkup,342,Expense,Bank Transfer
+2025-05-09,Food,Snacks,558,Expense,Cash
+2025-05-10,Food,Dinner,710,Expense,Bank Transfer
+2025-05-11,Entertainment,Weekend Outing,663,Expense,Cash
+2025-05-11,Investment,Mutual Fund,9601,Expense,Upi
+2025-05-12,Food,Food Delivery,111,Expense,Upi
+2025-05-12,Miscellaneous,Repair,221,Expense,Bank Transfer
+2025-05-13,Education,Course Fee,2835,Expense,Cash
+2025-05-14,Food,Lunch,134,Expense,Card
+2025-05-14,Travel,Cab,361,Expense,Bank Transfer
+2025-05-15,Education,Books,1455,Expense,Card
+2025-05-15,Bills,Electricity Bill,1361,Expense,Upi
+2025-05-15,Education,Exam Fee,903,Expense,Bank Transfer
+2025-05-16,Health,Health Checkup,1735,Expense,Cash
+2025-05-16,Education,Stationery,4890,Expense,Cash
+2025-05-17,Entertainment,Weekend Outing,278,Expense,Bank Transfer
+2025-05-17,Miscellaneous,Repair,1722,Expense,Cash
+2025-05-17,Shopping,Accessories,4521,Expense,Cash
+2025-05-18,Entertainment,Gaming,537,Expense,Upi
+2025-05-18,Travel,Train,77,Expense,Upi
+2025-05-18,Travel,Cab,213,Expense,Cash
+2025-05-19,Freelance,Part-time Work,2269,Income,Bank Transfer
+2025-05-19,Travel,Train,399,Expense,Bank Transfer
+2025-05-20,Food,Lunch,473,Expense,Card
+2025-05-21,Shopping,Grocery Shopping,2652,Expense,Bank Transfer
+2025-05-22,Shopping,Accessories,1574,Expense,Cash
+2025-05-22,Food,Food Delivery,392,Expense,Upi
+2025-05-22,Food,Snacks,297,Expense,Upi
+2025-05-23,Bills,Internet Bill,1190,Expense,Bank Transfer
+2025-05-23,Travel,Cab,291,Expense,Cash
+2025-05-23,Miscellaneous,Unexpected Expense,1429,Expense,Card
+2025-05-24,Shopping,Clothes,2075,Expense,Bank Transfer
+2025-05-24,Health,Doctor Visit,2993,Expense,Upi
+2025-05-24,Food,Dinner,469,Expense,Upi
+2025-05-25,Travel,Auto,163,Expense,Bank Transfer
+2025-05-25,Miscellaneous,Gift,687,Expense,Cash
+2025-05-26,Food,Food Delivery,563,Expense,Upi
+2025-05-27,Miscellaneous,Unexpected Expense,684,Expense,Upi
+2025-05-27,Miscellaneous,Gift,674,Expense,Upi
+2025-05-28,Travel,Auto,181,Expense,Cash
+2025-05-28,Miscellaneous,Unexpected Expense,1402,Expense,Upi
+2025-05-29,Entertainment,Weekend Outing,874,Expense,Cash
+2025-05-29,Travel,Bus,365,Expense,Upi
+2025-05-30,Food,Dinner,573,Expense,Cash
+2025-05-30,Shopping,Grocery Shopping,1326,Expense,Bank Transfer
+2025-05-30,Investment,SIP,2177,Expense,Cash
+2025-05-31,Shopping,Accessories,567,Expense,Bank Transfer
+2025-05-31,Miscellaneous,Unexpected Expense,1104,Expense,Card
+2025-05-31,Miscellaneous,Gift,1240,Expense,Bank Transfer
+2025-06-01,Shopping,Grocery Shopping,1369,Expense,Upi
+2025-06-01,Salary,Monthly Salary,33906,Income,Bank Transfer
+2025-06-02,Miscellaneous,Repair,1279,Expense,Bank Transfer
+2025-06-02,Health,Doctor Visit,201,Expense,Upi
+2025-06-02,Shopping,Accessories,1586,Expense,Card
+2025-06-03,Travel,Auto,290,Expense,Bank Transfer
+2025-06-03,Miscellaneous,Repair,1575,Expense,Upi
+2025-06-03,Travel,Cab,222,Expense,Upi
+2025-06-04,Shopping,Clothes,1543,Expense,Card
+2025-06-04,Entertainment,Gaming,527,Expense,Bank Transfer
+2025-06-05,Travel,Cab,251,Expense,Bank Transfer
+2025-06-05,Rent,Monthly House Rent,9072,Expense,Bank Transfer
+2025-06-05,Food,Snacks,167,Expense,Bank Transfer
+2025-06-06,Entertainment,Movie,1333,Expense,Cash
+2025-06-06,Entertainment,Weekend Outing,836,Expense,Cash
+2025-06-06,Shopping,Online Shopping,961,Expense,Card
+2025-06-07,Bills,Internet Bill,940,Expense,Upi
+2025-06-07,Food,Food Delivery,585,Expense,Card
+2025-06-07,Health,Doctor Visit,2706,Expense,Card
+2025-06-08,Entertainment,Movie,2229,Expense,Upi
+2025-06-08,Entertainment,Movie,309,Expense,Card
+2025-06-09,Freelance,Part-time Work,8704,Income,Bank Transfer
+2025-06-09,Food,Dinner,259,Expense,Card
+2025-06-10,Travel,Fuel,391,Expense,Cash
+2025-06-11,Miscellaneous,Unexpected Expense,1968,Expense,Upi
+2025-06-11,Food,Lunch,205,Expense,Card
+2025-06-11,Education,Exam Fee,4711,Expense,Cash
+2025-06-12,Travel,Train,185,Expense,Card
+2025-06-13,Miscellaneous,Gift,1995,Expense,Upi
+2025-06-13,Health,Doctor Visit,1307,Expense,Bank Transfer
+2025-06-14,Entertainment,Gaming,1016,Expense,Bank Transfer
+2025-06-15,Bills,Electricity Bill,613,Expense,Bank Transfer
+2025-06-15,Food,Snacks,771,Expense,Bank Transfer
+2025-06-16,Entertainment,Gaming,460,Expense,Card
+2025-06-16,Entertainment,Gaming,1489,Expense,Bank Transfer
+2025-06-17,Shopping,Grocery Shopping,1752,Expense,Cash
+2025-06-17,Miscellaneous,Unexpected Expense,233,Expense,Bank Transfer
+2025-06-18,Shopping,Accessories,1612,Expense,Upi
+2025-06-18,Travel,Cab,115,Expense,Cash
+2025-06-18,Miscellaneous,Repair,1891,Expense,Upi
+2025-06-19,Investment,SIP,3530,Expense,Upi
+2025-06-19,Travel,Train,74,Expense,Bank Transfer
+2025-06-20,Miscellaneous,Unexpected Expense,1655,Expense,Cash
+2025-06-21,Freelance,Part-time Work,14330,Income,Bank Transfer
+2025-06-21,Entertainment,Gaming,882,Expense,Cash
+2025-06-21,Food,Lunch,864,Expense,Card
+2025-06-22,Food,Food Delivery,786,Expense,Bank Transfer
+2025-06-22,Food,Cafe,352,Expense,Upi
+2025-06-22,Shopping,Grocery Shopping,2591,Expense,Bank Transfer
+2025-06-23,Bills,Electricity Bill,1267,Expense,Upi
+2025-06-23,Shopping,Clothes,1849,Expense,Cash
+2025-06-23,Miscellaneous,Unexpected Expense,1306,Expense,Upi
+2025-06-23,Food,Dinner,178,Expense,Bank Transfer
+2025-06-24,Travel,Train,291,Expense,Cash
+2025-06-25,Food,Cafe,494,Expense,Bank Transfer
+2025-06-25,Food,Dinner,381,Expense,Bank Transfer
+2025-06-25,Freelance,Freelance Payment,2671,Income,Bank Transfer
+2025-06-25,Food,Lunch,181,Expense,Upi
+2025-06-26,Education,Course Fee,892,Expense,Bank Transfer
+2025-06-26,Travel,Bus,91,Expense,Bank Transfer
+2025-06-27,Food,Cafe,543,Expense,Card
+2025-06-27,Shopping,Grocery Shopping,1075,Expense,Upi
+2025-06-27,Freelance,Part-time Work,11312,Income,Bank Transfer
+2025-06-28,Food,Food Delivery,374,Expense,Card
+2025-06-28,Food,Dinner,306,Expense,Card
+2025-06-28,Shopping,Online Shopping,3555,Expense,Upi
+2025-06-29,Food,Lunch,831,Expense,Upi
+2025-06-29,Miscellaneous,Unexpected Expense,1334,Expense,Card
+2025-06-29,Travel,Auto,310,Expense,Cash
+2025-06-30,Food,Lunch,391,Expense,Upi
+2025-06-30,Miscellaneous,Repair,218,Expense,Cash
+2025-07-01,Salary,Monthly Salary,59964,Income,Bank Transfer
+2025-07-01,Miscellaneous,Unexpected Expense,473,Expense,Bank Transfer
+2025-07-01,Investment,SIP,9714,Expense,Bank Transfer
+2025-07-01,Entertainment,Weekend Outing,637,Expense,Cash
+2025-07-02,Food,Snacks,567,Expense,Cash
+2025-07-02,Food,Lunch,504,Expense,Bank Transfer
+2025-07-03,Entertainment,Weekend Outing,1171,Expense,Cash
+2025-07-03,Health,Health Checkup,846,Expense,Bank Transfer
+2025-07-04,Shopping,Clothes,1730,Expense,Cash
+2025-07-04,Food,Dinner,562,Expense,Card
+2025-07-04,Food,Dinner,447,Expense,Cash
+2025-07-05,Rent,Monthly House Rent,9724,Expense,Bank Transfer
+2025-07-05,Shopping,Accessories,1266,Expense,Card
+2025-07-06,Education,Exam Fee,861,Expense,Upi
+2025-07-07,Bills,Electricity Bill,1014,Expense,Bank Transfer
+2025-07-07,Travel,Cab,59,Expense,Card
+2025-07-07,Health,Doctor Visit,2359,Expense,Cash
+2025-07-07,Education,Course Fee,3113,Expense,Cash
+2025-07-08,Travel,Cab,124,Expense,Upi
+2025-07-09,Travel,Cab,69,Expense,Cash
+2025-07-09,Travel,Train,359,Expense,Cash
+2025-07-09,Entertainment,Weekend Outing,337,Expense,Upi
+2025-07-10,Entertainment,Weekend Outing,485,Expense,Bank Transfer
+2025-07-11,Freelance,Part-time Work,12775,Income,Bank Transfer
+2025-07-11,Investment,Savings Deposit,4390,Expense,Bank Transfer
+2025-07-11,Travel,Train,79,Expense,Card
+2025-07-12,Travel,Bus,277,Expense,Card
+2025-07-12,Food,Snacks,556,Expense,Card
+2025-07-12,Miscellaneous,Gift,1119,Expense,Upi
+2025-07-13,Food,Lunch,533,Expense,Cash
+2025-07-13,Entertainment,Movie,919,Expense,Card
+2025-07-13,Food,Snacks,547,Expense,Upi
+2025-07-14,Food,Food Delivery,401,Expense,Upi
+2025-07-14,Shopping,Accessories,2303,Expense,Bank Transfer
+2025-07-14,Shopping,Online Shopping,1925,Expense,Card
+2025-07-15,Education,Course Fee,1931,Expense,Cash
+2025-07-15,Bills,Mobile Recharge,1140,Expense,Upi
+2025-07-15,Food,Cafe,273,Expense,Upi
+2025-07-16,Food,Dinner,369,Expense,Upi
+2025-07-16,Education,Exam Fee,1340,Expense,Card
+2025-07-16,Food,Food Delivery,349,Expense,Bank Transfer
+2025-07-17,Travel,Cab,176,Expense,Bank Transfer
+2025-07-17,Food,Dinner,531,Expense,Cash
+2025-07-17,Travel,Auto,191,Expense,Upi
+2025-07-18,Health,Health Checkup,3231,Expense,Upi
+2025-07-18,Miscellaneous,Repair,544,Expense,Upi
+2025-07-18,Food,Lunch,589,Expense,Upi
+2025-07-19,Miscellaneous,Unexpected Expense,1053,Expense,Cash
+2025-07-20,Health,Doctor Visit,1280,Expense,Bank Transfer
+2025-07-20,Food,Food Delivery,507,Expense,Cash
+2025-07-21,Education,Course Fee,843,Expense,Bank Transfer
+2025-07-22,Food,Food Delivery,418,Expense,Bank Transfer
+2025-07-22,Shopping,Accessories,1391,Expense,Card
+2025-07-22,Food,Cafe,312,Expense,Bank Transfer
+2025-07-23,Bills,Electricity Bill,1904,Expense,Bank Transfer
+2025-07-23,Education,Course Fee,2613,Expense,Card
+2025-07-23,Miscellaneous,Unexpected Expense,1220,Expense,Cash
+2025-07-24,Investment,Mutual Fund,6546,Expense,Card
+2025-07-24,Food,Cafe,173,Expense,Bank Transfer
+2025-07-24,Education,Stationery,984,Expense,Upi
+2025-07-25,Shopping,Accessories,2901,Expense,Bank Transfer
+2025-07-25,Food,Snacks,435,Expense,Card
+2025-07-26,Food,Snacks,602,Expense,Bank Transfer
+2025-07-26,Food,Cafe,278,Expense,Bank Transfer
+2025-07-27,Shopping,Clothes,2106,Expense,Cash
+2025-07-27,Entertainment,Subscription,2576,Expense,Card
+2025-07-27,Food,Lunch,651,Expense,Bank Transfer
+2025-07-28,Travel,Train,276,Expense,Upi
+2025-07-28,Investment,SIP,1645,Expense,Card
+2025-07-29,Travel,Fuel,275,Expense,Bank Transfer
+2025-07-30,Food,Food Delivery,317,Expense,Card
+2025-07-31,Education,Books,4933,Expense,Card
+2025-08-01,Salary,Monthly Salary,36439,Income,Bank Transfer
+2025-08-01,Investment,Mutual Fund,2674,Expense,Card
+2025-08-02,Food,Snacks,690,Expense,Bank Transfer
+2025-08-02,Freelance,Part-time Work,13132,Income,Bank Transfer
+2025-08-02,Travel,Bus,297,Expense,Bank Transfer
+2025-08-03,Travel,Bus,240,Expense,Upi
+2025-08-03,Travel,Bus,191,Expense,Card
+2025-08-03,Investment,Savings Deposit,2787,Expense,Card
+2025-08-04,Food,Cafe,542,Expense,Upi
+2025-08-04,Shopping,Accessories,1982,Expense,Card
+2025-08-04,Travel,Auto,330,Expense,Cash
+2025-08-05,Rent,Monthly House Rent,9967,Expense,Bank Transfer
+2025-08-05,Travel,Fuel,324,Expense,Upi
+2025-08-06,Food,Lunch,564,Expense,Bank Transfer
+2025-08-06,Miscellaneous,Gift,497,Expense,Upi
+2025-08-06,Shopping,Grocery Shopping,1959,Expense,Card
+2025-08-07,Bills,Water Bill,2177,Expense,Upi
+2025-08-07,Food,Cafe,433,Expense,Card
+2025-08-07,Miscellaneous,Gift,1899,Expense,Cash
+2025-08-07,Travel,Train,169,Expense,Cash
+2025-08-08,Travel,Auto,316,Expense,Upi
+2025-08-08,Shopping,Clothes,1648,Expense,Card
+2025-08-09,Food,Dinner,663,Expense,Bank Transfer
+2025-08-10,Health,Doctor Visit,1647,Expense,Card
+2025-08-11,Travel,Fuel,206,Expense,Bank Transfer
+2025-08-11,Food,Cafe,175,Expense,Cash
+2025-08-11,Miscellaneous,Gift,704,Expense,Card
+2025-08-12,Miscellaneous,Gift,1590,Expense,Upi
+2025-08-12,Education,Course Fee,2292,Expense,Cash
+2025-08-12,Miscellaneous,Repair,1845,Expense,Cash
+2025-08-13,Entertainment,Movie,291,Expense,Bank Transfer
+2025-08-14,Shopping,Online Shopping,5841,Expense,Bank Transfer
+2025-08-15,Bills,Water Bill,1101,Expense,Upi
+2025-08-15,Entertainment,Gaming,467,Expense,Cash
+2025-08-16,Travel,Cab,66,Expense,Card
+2025-08-17,Food,Food Delivery,471,Expense,Card
+2025-08-18,Travel,Train,68,Expense,Upi
+2025-08-19,Travel,Fuel,350,Expense,Cash
+2025-08-20,Entertainment,Movie,1154,Expense,Card
+2025-08-21,Food,Cafe,338,Expense,Upi
+2025-08-21,Food,Cafe,577,Expense,Cash
+2025-08-22,Freelance,Project Payment,13641,Income,Bank Transfer
+2025-08-22,Education,Course Fee,4368,Expense,Card
+2025-08-22,Entertainment,Subscription,1439,Expense,Cash
+2025-08-22,Food,Cafe,138,Expense,Cash
+2025-08-23,Bills,Electricity Bill,2037,Expense,Bank Transfer
+2025-08-23,Shopping,Grocery Shopping,4471,Expense,Card
+2025-08-23,Travel,Auto,360,Expense,Upi
+2025-08-23,Food,Lunch,196,Expense,Cash
+2025-08-24,Travel,Fuel,171,Expense,Cash
+2025-08-24,Miscellaneous,Unexpected Expense,519,Expense,Upi
+2025-08-25,Miscellaneous,Gift,771,Expense,Cash
+2025-08-25,Health,Medicine,2143,Expense,Card
+2025-08-25,Miscellaneous,Unexpected Expense,946,Expense,Bank Transfer
+2025-08-26,Travel,Auto,197,Expense,Bank Transfer
+2025-08-27,Travel,Bus,175,Expense,Cash
+2025-08-27,Investment,Savings Deposit,1929,Expense,Upi
+2025-08-27,Food,Food Delivery,212,Expense,Cash
+2025-08-28,Freelance,Project Payment,2442,Income,Bank Transfer
+2025-08-28,Food,Snacks,253,Expense,Bank Transfer
+2025-08-28,Travel,Cab,100,Expense,Upi
+2025-08-28,Travel,Auto,79,Expense,Upi
+2025-08-29,Shopping,Grocery Shopping,2993,Expense,Upi
+2025-08-30,Entertainment,Weekend Outing,1128,Expense,Cash
+2025-08-31,Shopping,Online Shopping,3403,Expense,Card
+2025-09-01,Entertainment,Gaming,632,Expense,Card
+2025-09-01,Miscellaneous,Gift,458,Expense,Bank Transfer
+2025-09-01,Salary,Monthly Salary,34569,Income,Bank Transfer
+2025-09-01,Food,Cafe,440,Expense,Upi
+2025-09-02,Miscellaneous,Repair,1887,Expense,Upi
+2025-09-03,Food,Food Delivery,440,Expense,Upi
+2025-09-03,Health,Health Checkup,2109,Expense,Upi
+2025-09-03,Entertainment,Gaming,1313,Expense,Card
+2025-09-04,Education,Exam Fee,2460,Expense,Cash
+2025-09-05,Miscellaneous,Repair,1871,Expense,Card
+2025-09-05,Travel,Bus,277,Expense,Cash
+2025-09-05,Rent,Monthly House Rent,10194,Expense,Bank Transfer
+2025-09-06,Entertainment,Movie,1865,Expense,Bank Transfer
+2025-09-06,Entertainment,Subscription,1275,Expense,Upi
+2025-09-06,Miscellaneous,Unexpected Expense,181,Expense,Card
+2025-09-07,Bills,Electricity Bill,2372,Expense,Upi
+2025-09-07,Miscellaneous,Unexpected Expense,246,Expense,Card
+2025-09-08,Freelance,Part-time Work,11134,Income,Bank Transfer
+2025-09-08,Miscellaneous,Repair,819,Expense,Upi
+2025-09-09,Freelance,Part-time Work,5906,Income,Bank Transfer
+2025-09-09,Food,Cafe,225,Expense,Cash
+2025-09-09,Travel,Bus,84,Expense,Cash
+2025-09-10,Freelance,Part-time Work,14306,Income,Bank Transfer
+2025-09-10,Investment,SIP,33829,Expense,Upi
+2025-09-10,Education,Books,4736,Expense,Bank Transfer
+2025-09-11,Travel,Fuel,121,Expense,Upi
+2025-09-11,Miscellaneous,Unexpected Expense,646,Expense,Upi
+2025-09-11,Health,Health Checkup,3655,Expense,Cash
+2025-09-12,Food,Dinner,182,Expense,Bank Transfer
+2025-09-12,Food,Cafe,261,Expense,Cash
+2025-09-13,Freelance,Project Payment,12350,Income,Bank Transfer
+2025-09-13,Travel,Cab,264,Expense,Cash
+2025-09-13,Travel,Bus,102,Expense,Upi
+2025-09-14,Entertainment,Subscription,1777,Expense,Upi
+2025-09-15,Investment,Savings Deposit,2589,Expense,Cash
+2025-09-15,Bills,Internet Bill,1043,Expense,Bank Transfer
+2025-09-15,Shopping,Online Shopping,1311,Expense,Cash
+2025-09-16,Miscellaneous,Unexpected Expense,875,Expense,Card
+2025-09-17,Investment,Mutual Fund,8016,Expense,Upi
+2025-09-17,Food,Lunch,448,Expense,Card
+2025-09-18,Travel,Cab,369,Expense,Upi
+2025-09-19,Entertainment,Gaming,577,Expense,Card
+2025-09-19,Miscellaneous,Unexpected Expense,1206,Expense,Upi
+2025-09-19,Food,Lunch,570,Expense,Bank Transfer
+2025-09-20,Food,Food Delivery,165,Expense,Upi
+2025-09-20,Food,Lunch,194,Expense,Upi
+2025-09-20,Shopping,Clothes,3245,Expense,Cash
+2025-09-21,Shopping,Grocery Shopping,2410,Expense,Upi
+2025-09-22,Entertainment,Weekend Outing,1101,Expense,Upi
+2025-09-22,Freelance,Freelance Payment,6072,Income,Bank Transfer
+2025-09-22,Shopping,Grocery Shopping,1423,Expense,Upi
+2025-09-23,Bills,Internet Bill,2272,Expense,Upi
+2025-09-23,Food,Cafe,102,Expense,Bank Transfer
+2025-09-23,Travel,Fuel,359,Expense,Upi
+2025-09-23,Travel,Bus,276,Expense,Cash
+2025-09-24,Food,Food Delivery,152,Expense,Upi
+2025-09-25,Education,Course Fee,3161,Expense,Bank Transfer
+2025-09-25,Food,Snacks,455,Expense,Upi
+2025-09-26,Shopping,Online Shopping,2577,Expense,Bank Transfer
+2025-09-26,Food,Dinner,564,Expense,Bank Transfer
+2025-09-26,Freelance,Freelance Payment,14458,Income,Bank Transfer
+2025-09-27,Food,Food Delivery,461,Expense,Upi
+2025-09-28,Miscellaneous,Unexpected Expense,722,Expense,Bank Transfer
+2025-09-28,Food,Cafe,1523,Expense,Upi
+2025-09-29,Travel,Fuel,94,Expense,Bank Transfer
+2025-09-30,Food,Food Delivery,189,Expense,Bank Transfer
+2025-09-30,Freelance,Freelance Payment,10680,Income,Bank Transfer
+2025-09-30,Entertainment,Subscription,1378,Expense,Bank Transfer
+2025-10-01,Salary,Monthly Salary,34171,Income,Bank Transfer
+2025-10-01,Entertainment,Subscription,427,Expense,Cash
+2025-10-01,Food,Lunch,461,Expense,Cash
+2025-10-01,Travel,Train,388,Expense,Bank Transfer
+2025-10-02,Food,Lunch,558,Expense,Card
+2025-10-02,Miscellaneous,Gift,315,Expense,Card
+2025-10-02,Food,Lunch,273,Expense,Cash
+2025-10-03,Food,Food Delivery,160,Expense,Cash
+2025-10-03,Food,Dinner,185,Expense,Cash
+2025-10-03,Freelance,Freelance Payment,7939,Income,Bank Transfer
+2025-10-03,Food,Snacks,260,Expense,Cash
+2025-10-04,Entertainment,Weekend Outing,1884,Expense,Upi
+2025-10-04,Food,Cafe,720,Expense,Bank Transfer
+2025-10-05,Rent,Monthly House Rent,14415,Expense,Bank Transfer
+2025-10-05,Shopping,Clothes,6758,Expense,Upi
+2025-10-05,Miscellaneous,Repair,410,Expense,Cash
+2025-10-05,Food,Dinner,346,Expense,Upi
+2025-10-06,Miscellaneous,Gift,1029,Expense,Cash
+2025-10-07,Bills,Mobile Recharge,1875,Expense,Upi
+2025-10-07,Entertainment,Weekend Outing,1212,Expense,Bank Transfer
+2025-10-07,Education,Books,585,Expense,Cash
+2025-10-08,Investment,Savings Deposit,9148,Expense,Card
+2025-10-08,Health,Health Checkup,1826,Expense,Upi
+2025-10-09,Food,Snacks,327,Expense,Cash
+2025-10-10,Education,Exam Fee,4324,Expense,Upi
+2025-10-11,Freelance,Freelance Payment,9778,Income,Bank Transfer
+2025-10-11,Entertainment,Movie,1363,Expense,Bank Transfer
+2025-10-11,Entertainment,Gaming,2000,Expense,Cash
+2025-10-11,Miscellaneous,Unexpected Expense,1751,Expense,Card
+2025-10-12,Food,Lunch,644,Expense,Upi
+2025-10-13,Entertainment,Gaming,810,Expense,Card
+2025-10-13,Travel,Auto,237,Expense,Bank Transfer
+2025-10-13,Travel,Fuel,181,Expense,Card
+2025-10-14,Entertainment,Weekend Outing,702,Expense,Card
+2025-10-15,Food,Food Delivery,540,Expense,Bank Transfer
+2025-10-15,Food,Dinner,263,Expense,Bank Transfer
+2025-10-15,Bills,Mobile Recharge,974,Expense,Bank Transfer
+2025-10-15,Freelance,Freelance Payment,13757,Income,Bank Transfer
+2025-10-15,Miscellaneous,Unexpected Expense,806,Expense,Bank Transfer
+2025-10-16,Food,Lunch,353,Expense,Upi
+2025-10-17,Travel,Train,362,Expense,Upi
+2025-10-17,Travel,Fuel,228,Expense,Bank Transfer
+2025-10-18,Health,Medicine,2998,Expense,Card
+2025-10-18,Entertainment,Subscription,1438,Expense,Cash
+2025-10-18,Food,Food Delivery,1035,Expense,Cash
+2025-10-19,Travel,Cab,336,Expense,Cash
+2025-10-20,Food,Lunch,579,Expense,Upi
+2025-10-21,Health,Medicine,2810,Expense,Card
+2025-10-21,Investment,Mutual Fund,5199,Expense,Card
+2025-10-21,Health,Medicine,3164,Expense,Upi
+2025-10-22,Health,Medicine,366,Expense,Upi
+2025-10-22,Food,Food Delivery,268,Expense,Cash
+2025-10-22,Travel,Bus,357,Expense,Card
+2025-10-23,Bills,Water Bill,2403,Expense,Upi
+2025-10-23,Shopping,Grocery Shopping,2599,Expense,Bank Transfer
+2025-10-23,Travel,Cab,388,Expense,Bank Transfer
+2025-10-23,Education,Books,2324,Expense,Card
+2025-10-24,Shopping,Online Shopping,2151,Expense,Upi
+2025-10-24,Shopping,Grocery Shopping,4560,Expense,Bank Transfer
+2025-10-24,Health,Health Checkup,858,Expense,Card
+2025-10-25,Miscellaneous,Repair,1114,Expense,Bank Transfer
+2025-10-25,Education,Stationery,3066,Expense,Card
+2025-10-25,Travel,Cab,200,Expense,Upi
+2025-10-26,Shopping,Clothes,5881,Expense,Upi
+2025-10-27,Food,Dinner,158,Expense,Bank Transfer
+2025-10-28,Travel,Bus,96,Expense,Upi
+2025-10-28,Education,Course Fee,2938,Expense,Card
+2025-10-29,Entertainment,Gaming,553,Expense,Card
+2025-10-29,Travel,Auto,307,Expense,Upi
+2025-10-30,Food,Dinner,417,Expense,Cash
+2025-10-30,Entertainment,Subscription,1377,Expense,Cash
+2025-10-31,Food,Dinner,223,Expense,Card
+2025-10-31,Entertainment,Gaming,368,Expense,Bank Transfer
+2025-10-31,Travel,Fuel,197,Expense,Card
+2025-11-01,Food,Lunch,600,Expense,Upi
+2025-11-01,Salary,Monthly Salary,51990,Income,Bank Transfer
+2025-11-02,Travel,Auto,149,Expense,Upi
+2025-11-02,Food,Snacks,229,Expense,Cash
+2025-11-03,Food,Lunch,377,Expense,Upi
+2025-11-04,Travel,Fuel,56,Expense,Card
+2025-11-05,Rent,Monthly House Rent,11491,Expense,Bank Transfer
+2025-11-05,Investment,Savings Deposit,8071,Expense,Upi
+2025-11-06,Travel,Bus,293,Expense,Bank Transfer
+2025-11-06,Miscellaneous,Gift,743,Expense,Card
+2025-11-06,Food,Snacks,347,Expense,Upi
+2025-11-07,Food,Dinner,395,Expense,Card
+2025-11-07,Food,Food Delivery,324,Expense,Card
+2025-11-07,Food,Cafe,250,Expense,Card
+2025-11-07,Bills,Mobile Recharge,2469,Expense,Upi
+2025-11-08,Health,Health Checkup,537,Expense,Cash
+2025-11-09,Investment,Savings Deposit,8610,Expense,Card
+2025-11-09,Entertainment,Weekend Outing,1327,Expense,Card
+2025-11-09,Education,Books,3056,Expense,Card
+2025-11-10,Miscellaneous,Unexpected Expense,748,Expense,Upi
+2025-11-11,Food,Cafe,287,Expense,Cash
+2025-11-11,Entertainment,Subscription,241,Expense,Cash
+2025-11-12,Food,Food Delivery,359,Expense,Card
+2025-11-12,Shopping,Accessories,6136,Expense,Cash
+2025-11-13,Food,Dinner,301,Expense,Card
+2025-11-14,Travel,Bus,368,Expense,Upi
+2025-11-14,Health,Medicine,1002,Expense,Bank Transfer
+2025-11-14,Miscellaneous,Unexpected Expense,382,Expense,Upi
+2025-11-15,Bills,Water Bill,1043,Expense,Bank Transfer
+2025-11-15,Travel,Bus,226,Expense,Upi
+2025-11-16,Food,Food Delivery,312,Expense,Cash
+2025-11-17,Shopping,Clothes,4680,Expense,Card
+2025-11-17,Health,Health Checkup,2900,Expense,Bank Transfer
+2025-11-17,Food,Food Delivery,500,Expense,Cash
+2025-11-18,Travel,Bus,295,Expense,Cash
+2025-11-18,Food,Dinner,525,Expense,Cash
+2025-11-19,Food,Snacks,300,Expense,Cash
+2025-11-19,Food,Snacks,146,Expense,Cash
+2025-11-19,Food,Snacks,511,Expense,Upi
+2025-11-20,Travel,Auto,68,Expense,Upi
+2025-11-21,Travel,Train,295,Expense,Bank Transfer
+2025-11-21,Miscellaneous,Gift,659,Expense,Upi
+2025-11-22,Shopping,Clothes,4810,Expense,Card
+2025-11-22,Travel,Cab,290,Expense,Upi
+2025-11-23,Bills,Water Bill,1910,Expense,Upi
+2025-11-23,Food,Lunch,1775,Expense,Upi
+2025-11-24,Shopping,Online Shopping,5990,Expense,Card
+2025-11-25,Shopping,Grocery Shopping,599,Expense,Cash
+2025-11-26,Food,Lunch,121,Expense,Bank Transfer
+2025-11-26,Miscellaneous,Gift,831,Expense,Upi
+2025-11-27,Investment,SIP,3382,Expense,Card
+2025-11-28,Food,Lunch,334,Expense,Upi
+2025-11-28,Travel,Cab,380,Expense,Bank Transfer
+2025-11-28,Freelance,Project Payment,12562,Income,Bank Transfer
+2025-11-28,Travel,Fuel,369,Expense,Card
+2025-11-29,Freelance,Part-time Work,9291,Income,Bank Transfer
+2025-11-29,Food,Dinner,182,Expense,Cash
+2025-11-30,Travel,Cab,363,Expense,Upi
+2025-12-01,Salary,Monthly Salary,49255,Income,Bank Transfer
+2025-12-01,Food,Food Delivery,364,Expense,Cash
+2025-12-01,Miscellaneous,Gift,826,Expense,Bank Transfer
+2025-12-01,Education,Course Fee,989,Expense,Cash
+2025-12-02,Travel,Cab,316,Expense,Upi
+2025-12-02,Food,Cafe,542,Expense,Cash
+2025-12-03,Food,Food Delivery,265,Expense,Upi
+2025-12-03,Shopping,Online Shopping,4063,Expense,Cash
+2025-12-03,Miscellaneous,Repair,1492,Expense,Upi
+2025-12-04,Health,Doctor Visit,1122,Expense,Cash
+2025-12-05,Education,Exam Fee,703,Expense,Upi
+2025-12-05,Rent,Monthly House Rent,8974,Expense,Bank Transfer
+2025-12-05,Education,Exam Fee,2314,Expense,Bank Transfer
+2025-12-05,Shopping,Online Shopping,3832,Expense,Card
+2025-12-06,Shopping,Online Shopping,2768,Expense,Upi
+2025-12-06,Health,Doctor Visit,3149,Expense,Card
+2025-12-07,Food,Snacks,489,Expense,Card
+2025-12-07,Health,Health Checkup,1674,Expense,Card
+2025-12-07,Miscellaneous,Unexpected Expense,398,Expense,Bank Transfer
+2025-12-07,Bills,Internet Bill,2291,Expense,Bank Transfer
+2025-12-08,Entertainment,Subscription,657,Expense,Cash
+2025-12-08,Food,Lunch,561,Expense,Bank Transfer
+2025-12-09,Investment,SIP,8753,Expense,Upi
+2025-12-09,Travel,Train,388,Expense,Upi
+2025-12-09,Education,Books,3230,Expense,Card
+2025-12-10,Miscellaneous,Unexpected Expense,750,Expense,Bank Transfer
+2025-12-10,Shopping,Accessories,2821,Expense,Bank Transfer
+2025-12-10,Miscellaneous,Gift,269,Expense,Cash
+2025-12-11,Entertainment,Movie,720,Expense,Cash
+2025-12-11,Travel,Cab,231,Expense,Upi
+2025-12-11,Freelance,Freelance Payment,14170,Income,Bank Transfer
+2025-12-12,Education,Course Fee,2178,Expense,Cash
+2025-12-12,Entertainment,Gaming,870,Expense,Cash
+2025-12-12,Food,Snacks,211,Expense,Card
+2025-12-13,Health,Doctor Visit,2413,Expense,Cash
+2025-12-13,Miscellaneous,Repair,1957,Expense,Cash
+2025-12-14,Education,Course Fee,3423,Expense,Bank Transfer
+2025-12-14,Food,Cafe,528,Expense,Bank Transfer
+2025-12-15,Miscellaneous,Gift,1874,Expense,Bank Transfer
+2025-12-15,Travel,Fuel,122,Expense,Upi
+2025-12-15,Shopping,Clothes,2630,Expense,Card
+2025-12-15,Bills,Internet Bill,1441,Expense,Upi
+2025-12-16,Food,Food Delivery,375,Expense,Card
+2025-12-17,Miscellaneous,Repair,1473,Expense,Card
+2025-12-18,Food,Dinner,389,Expense,Cash
+2025-12-18,Miscellaneous,Gift,1027,Expense,Bank Transfer
+2025-12-18,Miscellaneous,Unexpected Expense,1761,Expense,Bank Transfer
+2025-12-19,Food,Cafe,159,Expense,Upi
+2025-12-20,Food,Dinner,260,Expense,Bank Transfer
+2025-12-21,Shopping,Accessories,3603,Expense,Upi
+2025-12-21,Entertainment,Weekend Outing,1673,Expense,Bank Transfer
+2025-12-21,Food,Food Delivery,179,Expense,Bank Transfer
+2025-12-21,Freelance,Project Payment,3879,Income,Bank Transfer
+2025-12-22,Entertainment,Subscription,1121,Expense,Cash
+2025-12-23,Bills,Water Bill,1330,Expense,Upi
+2025-12-23,Miscellaneous,Repair,492,Expense,Card
+2025-12-24,Education,Course Fee,946,Expense,Card
+2025-12-25,Miscellaneous,Unexpected Expense,1141,Expense,Bank Transfer
+2025-12-26,Miscellaneous,Gift,976,Expense,Cash
+2025-12-26,Entertainment,Gaming,1166,Expense,Card
+2025-12-27,Entertainment,Subscription,479,Expense,Upi
+2025-12-27,Miscellaneous,Repair,944,Expense,Card
+2025-12-27,Travel,Train,257,Expense,Cash
+2025-12-28,Shopping,Online Shopping,5254,Expense,Upi
+2025-12-28,Food,Snacks,412,Expense,Bank Transfer
+2025-12-29,Miscellaneous,Gift,1610,Expense,Upi
+2025-12-30,Food,Cafe,599,Expense,Upi
+2025-12-30,Shopping,Accessories,3178,Expense,Card
+2025-12-31,Education,Books,2020,Expense,Bank Transfer
+2025-12-31,Freelance,Project Payment,13949,Income,Bank Transfer
+2025-12-31,Entertainment,Movie,907,Expense,Cash
